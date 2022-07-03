@@ -1,0 +1,36 @@
+A configurable QOL mod focused on granting more control over Player mechanics.
+
+**Features - As of now, you can modify:**
+-Jump Height
+-Jump Speed
+-Gravity
+-Max Run Speed
+-Run Acceleration
+-Run Slowdown
+-Life Regeneration
+-Breath Time
+-Immune Time
+-Armor Penetration
+-Max Minions
+-Max Sentries
+-Defense
+-Endurance
+
+__There is more planned to be added.__
+
+
+-v0.1-
+-Initial release.
+
+-v0.1.1-
+-Added Breath and Armor penetration to the config.
+-Changed Mod Title from "Player Tweaks" to "Player Stat Editor (Tweak Your Mechanics Your Way)".
+
+-v0.1.2-
+-Segregated Player Movement and Player Combat into individual partitions for more Accessibility.
+-Added Immune Time, Defense, Endurance, Max Minions and Max Sentries to the config.
+-Reworked the implementation of the mod's functions for more bug-free integration.
+
+-v0.1.3-
+-Updated the mod for tModLoader's April update.
+-Expanded the Config options for Armor Penetration (Generic, Melee, Ranged, Magic, Summoner). This was possible thanks to the new DamageClass changes from the tModLoader update.

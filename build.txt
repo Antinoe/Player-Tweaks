@@ -1,0 +1,4 @@
+displayName = Player Stat Editor (Tweak Your Mechanics Your Way)
+author = Antinous
+version = 0.1.3
+homepage = https://github.com/Antinoe/Player-Tweaks
